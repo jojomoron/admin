@@ -1,0 +1,28 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: spring-boot-admin
+  boot:
+    admin:
+      notify:
+        line:
+          enabled: true
+          channelSecret: "b5b2327b278dc2a612964bf59b2906ae"
+          channelToken: "Rt6c3jeFdoZhZEyCNZDGQBCPl3CpSEGfcUF8vZ9GKASlxUMCulbRRxuPnAAnMoMWUe0z/dBV11ZhaUWIr9mTCMmxAGPiY1t8QJukx81OgD9mu4+JX+kLZepi+aMW20Cp4aIvgkJ0WivTu5u+RH3iAAdB04t89/1O/w1cDnyilFU="
+          to: "Ue8f1100ed3b368dae670496291099a19"
+        mail:
+          enabled: true
+          from: "jojomoron@gmail.com"
+          to: "steven.chang@vteamsystem.com"
+        
+  mail:
+    host: "jojomoron@gmail.com"
+    username: "jojomoron@gmail.com"
+    password: "jolehi55"
+  
+#logging:
+#  level:
+#    root: WARN
+#  file: ${spring.application.name}.log
+  

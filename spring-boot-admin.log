@@ -1,0 +1,10 @@
+2019-09-09 13:44:37.678  WARN 4364 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-09-09 13:44:37.684  WARN 4364 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-09-09 13:44:38.045  WARN 4364 --- [main] o.s.w.s.r.ResourceHttpRequestHandler     : Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver.
+2019-09-09 13:44:38.046  WARN 4364 --- [main] o.s.w.s.r.ResourceHttpRequestHandler     : Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver.
+2019-09-09 13:44:40.290  WARN 4364 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with key 'zuulEndpoint' has been registered as an MBean but has no exposed attributes or operations
+2019-09-09 14:05:34.984  WARN 9752 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-09-09 14:05:34.988  WARN 9752 --- [main] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2019-09-09 14:05:35.330  WARN 9752 --- [main] o.s.w.s.r.ResourceHttpRequestHandler     : Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver.
+2019-09-09 14:05:35.330  WARN 9752 --- [main] o.s.w.s.r.ResourceHttpRequestHandler     : Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver.
+2019-09-09 14:05:37.261  WARN 9752 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with key 'zuulEndpoint' has been registered as an MBean but has no exposed attributes or operations
