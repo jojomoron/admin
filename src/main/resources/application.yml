@@ -16,10 +16,7 @@ spring:
           from: "jojomoron@gmail.com"
           to: "steven.chang@vteamsystem.com"
         
-  mail:
-    host: "jojomoron@gmail.com"
-    username: "jojomoron@gmail.com"
-    password: "jolehi55"
+
   
 #logging:
 #  level:
